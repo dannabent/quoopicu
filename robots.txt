@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeequeisha.walesalami.com/sitemap.xml
